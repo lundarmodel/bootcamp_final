@@ -1,3 +1,5 @@
 desktop.ini
 activate_j_venv.sh
 examples
+.ipynb_checkpoints
+final_project
